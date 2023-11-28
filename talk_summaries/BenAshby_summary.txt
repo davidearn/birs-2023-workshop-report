@@ -1,0 +1,118 @@
+From bashby@sfu.ca Mon Nov 27 22:13:02 2023
+Date: Tue, 28 Nov 2023 03:13:00 +0000
+From: Ben Ashby <bashby@sfu.ca>
+To: David Earn <earn@math.mcmaster.ca>
+Subject: Re: [23w5151] BIRS workshop: e-mail list, contributions to report
+
+
+Hi David,
+
+
+An abstract for my talk is below.
+
+
+Antigenic evolution of SARS-CoV-2 in immunocompromised hosts
+
+Prolonged infections of immunocompromised individuals have been proposed as a
+crucial source of new variants of SARS-CoV-2 during the COVID-19 pandemic.
+Longitudinal sampling of SARS-CoV-2 from immunocompromised hosts reveals
+evidence of accelerated adaptation relative to the wider population. In
+principle, sustained within-host antigenic evolution in immunocompromised hosts
+could allow novel immune escape variants to emerge more rapidly, but little is
+known about how and when immunocompromised hosts play a critical role in
+pathogen evolution. I will discuss how a relatively simple mathematical model
+can provide powerful insights into the effects of immunocompromised hosts on the
+emergence of immune escape variants. Specifically, when the pathogen does not
+have to cross a fitness valley for immune escape to occur, a small number of
+immunocompromised hosts have no qualitative effect on antigenic evolution at the
+population-level. But if a fitness valley exists, then persistent infections of
+immunocompromised individuals allow mutations to accumulate so that the fitness
+valley can be traversed, thereby facilitating large jumps in antigenic space at
+the population-level. Our results suggest that better genomic surveillance of
+infected immunocompromised individuals and better global health equality,
+including improving access to vaccines and treatments for individuals who are
+immunocompromised (especially in lower- and middle-income countries), may help
+to prevent the emergence of future immune escape variants of SARS-CoV-2.
+
+
+
+Ben Ashby (he, him)
+Associate Professor | Department of Mathematics
+Simon Fraser University | K9525
+bashby@sfu.ca | ecoevotheory.com
+
+
+If this email arrives outside your regular working hours, please do not feel
+obliged to respond during this time.
+
+
+I respectfully acknowledge that I live and work on the unceded Ancestral and
+Traditional Territories of the Coast Salish peoples from the səl̓ilw̓ətaʔɬ,
+Sḵwx̱wú7mesh Úxwumixw, xʷməθkʷəy̓əm and kʷikʷəƛ̓əm Nations.
+
+
+________________________________________________________________________________
+From: BIRS Workshop <no-replies@workshops.birs.ca>
+Sent: 27 November 2023 15:48:13
+To: Ben Ashby
+Subject: [23w5151] BIRS workshop: e-mail list, contributions to report  
+From "David Earn" <earn@math.mcmaster.ca> to 23w5151@workshops.birs.ca on Mon,
+27 Nov 2023 18:48:05 -0500:
+----------------------------------------------------------------------
+
+
+Dear Colleagues,
+
+Thank you for participating in our CANMOD BIRS workshop from 12-17 Nov
+2023.  We are writing with a few followup points:
+
+No one objected to sharing their e-mail address with the full group, so a
+full list of all participants with their e-mail address and affiliation is
+attached.
+
+We, the organizers, are required to write a 10-15 page report about the
+workshop.  This report will be placed permanently on the BIRS web site.
+BIRS workshop reports normally contain summaries of the presentations.
+Since we did not request abstracts in advance, we don't have summaries to
+work from.  Consequently, if you gave a presentation at the meeting, can
+you please send us a brief summary that can be included in the report?
+Please note that the report must be formatted in LaTeX, so please send
+LaTeX-compatible text if possible.  We would appreciate receiving this
+brief text within two weeks, i.e., by Monday 11 Dec 2023, if at all
+possible.  Thanks in advance!
+
+Another common component of BIRS workshop reports comprises testimonials
+from participants about the workshop.  If you have comments that you would
+be comfortable appearing in the report, please also send them to us in a
+LaTeX-friendly format, preferably by 11 Dec 2023.  Again, thanks in
+advance.
+
+Finally, if you attended in person and you have not already done so,
+please submit your travel claim to Mark Campbell at SFU.  You should have
+received an e-mail message from Mark at the end of the workshop.
+
+Thanks again for participating in what worked out to be a very enjoyable
+and interesting meeting!
+
+Best wishes,
+David, Caroline and Irena
+
+------------------------------------------
+
+   David J.D. Earn, PhD, FCAHS (he/הוא)
+   Professor of Mathematics and
+     Faculty of Science Research Chair in Mathematical Epidemiology
+   Department of Mathematics and Statistics
+     and M. G. DeGroote Institute for Infectious Disease Research
+   McMaster University
+   1280 Main Street West
+   Hamilton, Ontario, Canada L8S 4K1
+
+   E-mail:   earn@math.mcmaster.ca
+   Homepage: http://davidearn.mcmaster.ca
+   COVID-19: https://mac-theobio.github.io/covid-19/
+   Office:   Hamilton Hall, Room 317
+   Tel:      (905) 525-9140, x27245
+
+
+
