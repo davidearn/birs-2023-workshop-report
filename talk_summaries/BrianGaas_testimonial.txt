@@ -1,0 +1,72 @@
+From Brian.Gaas@yukon.ca Wed Dec  6 12:06:11 2023
+Date: Wed, 6 Dec 2023 17:06:08 +0000
+From: Brian.Gaas <Brian.Gaas@yukon.ca>
+To: David Earn <earn@math.mcmaster.ca>
+Subject: RE: [EXT] [23w5151] BIRS workshop: e-mail list, contributions to report
+
+Hello David:
+
+I uncovered this in my email box yesterday, so my apologies for the delay! See the attached for a summary of my presentation. I have also written a blurb below for the BIRS workshop report. It's the least I can do given the amount of work you organizers put into things!
+
+BIRS blurb:
+
+The CANMOD BIRS workshop was a fabulous experience, both overall and in its specifics. Direct shuttles between Calgary and Banff, lodging and included meals at the site of the conference, on-hand IT staff for presentations, giant mountains to look at... I'm not sure what else one might want for logistics. I imagine conference attendees everywhere were happy to see the people behind the Zoom and Teams screens for the first time in a few years, and this was no exception. It is perhaps the goal of every conference to provide a venue where people can learn what their colleagues are up to, and collaborate on future projects. The CANMOD workshop succeed admirably in this, and I am currently following up with a few different groups on work that was presented. My two complaints are me not bringing climbing shoes, and eating too much at the buffet dinners... both which are perfectly good problems to have.
+
+
+~Brian
+
+
+
+-----Original Message-----
+From: BIRS Workshop <no-replies@workshops.birs.ca>
+Sent: Monday, November 27, 2023 4:48 PM
+To: Brian.Gaas <Brian.Gaas@yukon.ca>
+Subject: [EXT] [23w5151] BIRS workshop: e-mail list, contributions to report
+
+From "David Earn" <earn@math.mcmaster.ca> to 23w5151@workshops.birs.ca on Mon, 27 Nov 2023 18:48:05 -0500:
+----------------------------------------------------------------------
+
+
+Dear Colleagues,
+
+Thank you for participating in our CANMOD BIRS workshop from 12-17 Nov 2023.  We are writing with a few followup points:
+
+No one objected to sharing their e-mail address with the full group, so a full list of all participants with their e-mail address and affiliation is attached.
+
+We, the organizers, are required to write a 10-15 page report about the workshop.  This report will be placed permanently on the BIRS web site.
+BIRS workshop reports normally contain summaries of the presentations.
+Since we did not request abstracts in advance, we don't have summaries to work from.  Consequently, if you gave a presentation at the meeting, can you please send us a brief summary that can be included in the report?
+Please note that the report must be formatted in LaTeX, so please send LaTeX-compatible text if possible.  We would appreciate receiving this brief text within two weeks, i.e., by Monday 11 Dec 2023, if at all possible.  Thanks in advance!
+
+Another common component of BIRS workshop reports comprises testimonials from participants about the workshop.  If you have comments that you would be comfortable appearing in the report, please also send them to us in a LaTeX-friendly format, preferably by 11 Dec 2023.  Again, thanks in advance.
+
+Finally, if you attended in person and you have not already done so, please submit your travel claim to Mark Campbell at SFU.  You should have received an e-mail message from Mark at the end of the workshop.
+
+Thanks again for participating in what worked out to be a very enjoyable and interesting meeting!
+
+Best wishes,
+David, Caroline and Irena
+
+------------------------------------------
+
+   David J.D. Earn, PhD, FCAHS (he/הוא)
+   Professor of Mathematics and
+     Faculty of Science Research Chair in Mathematical Epidemiology
+   Department of Mathematics and Statistics
+     and M. G. DeGroote Institute for Infectious Disease Research
+   McMaster University
+   1280 Main Street West
+   Hamilton, Ontario, Canada L8S 4K1
+
+   E-mail:   earn@math.mcmaster.ca
+   Homepage: http://davidearn.mcmaster.ca/
+   COVID-19: https://mac-theobio.github.io/covid-19/
+   Office:   Hamilton Hall, Room 317
+   Tel:      (905) 525-9140, x27245
+
+
+
+
+    [ Part 2, "BGaas-Activation theory of vaccine uptake.txt"  Text/PLAIN ]
+    [ (Name: "BGaas-Activation theory of vaccine uptake.txt") ~1.9 KB. ]
+    [ Unable to print this part. ]
