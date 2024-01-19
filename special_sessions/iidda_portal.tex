@@ -1,3 +1,47 @@
 \subsubsection{Historic Disease Data Portal}
 
-To be drafted by Steve.
+\textit{Steven C Walker}
+
+In addition to funding research, training, and networking opportunities for building applied infectious disease modelling capacity in Canada, CANMOD also funded a project to provide straightforward and convenient access to historical and publicly available incidence, mortality, and population data. This project led to three long-term Canadian datasets.
+
+Although there is a great wealth of historical data on infectious diseases in Canada that is or could be technically available to the public, it tends to be locked up in inconvenient formats like handwritten documents and internal databases at Statistics Canada. With this project, we are building a Canadian data archive that will provide straightforward and convenient access to historical public Canadian infectious disease data.
+
+We systematically contacted data stewards across Canada to access the disparate source documents that contain Canada's public historical infectious disease data, in an effort to be systematic and comprehensive. We entered the information provided by the source documents into spreadsheets such that they can be compared with the original sources, and have produced automated pipelines for converting the digitized spreadsheets into convenient csv files with metadata. We worked with Statistics Canada to obtain mortality data that they have not made public. This work involved working with analysts at Statistics Canada to balance strict anonymity requirements with our intention to make these data publicly available. We systematically digitized official documents on Canadian populations for normalizing disease incidence and mortality data. All-in-all we now have a systematic and comprehensive data archive ($\sim$ 2 million) of the following communicable disease incidence, mortality, and population data.
+
+\begin{itemize}
+  \item Notifiable Communicable Disease Incidence (CDI) (1924-2000)
+    \begin{itemize}
+      \item 1924-1980 (weekly), 1980-1990 (monthly), 1990-2000 (quarterly)
+      \item Broken down by province/territory
+      \item Broken down by disease
+      \item Some diseases broken down by age and sex (before 1956)
+    \end{itemize}
+  \item Mortality (1950-2010)
+    \begin{itemize}
+      \item Weekly
+      \item Broken down by province/territory
+      \item Broken down by 12 cause groups selected by Statistics Canada
+      \item Extends the public data portal back from 2010 to 1950
+    \end{itemize}
+  \item Population (1871-present)
+    \begin{itemize}
+      \item Population estimates every ten years (1881-1921), every year (1921-present)
+      \item Broken down by sex
+      \item Broken down by age
+      \item Broken down by province/territory
+    \end{itemize}
+\end{itemize}
+
+To enhance accessibility of this archive we developed the following tools, which will be made public once we have a pre-print describing this work.
+
+\begin{itemize}
+  \item All data available on GitHub with open data pipelines
+  \item Web-based and R-based APIs for programmatically accessing and searching the data on GitHub
+  \item Dashboard for searching, downloading, and combining data
+\end{itemize}
+
+We provided meeting participants with sample API commands for accessing the archive.
+
+We identified and adopted best-practices for archiving research data. We developed a controlled data dictionary and CSV format used by all datasets in the archive, making it easier to combine data from different historical sources. We complied with widely adopted DataCite standard for metadata on research datasets -- allows our archive to be integrated in any number of pre-existing data portals. Utimately, we plan to contribute our archive to a long-term storage and data access service for researchers (likely the Federated Research Data Repository).
+
+This project has the potential to contribute to Canadian pandemic preparedness by providing long-term data on a diversity of infectious diseases that have significantly impacted the health of Canadians. The convenient access to these data provided by this project will help epidemiologists to learn from past public health challenges.
