@@ -5,3 +5,6 @@
 *.pdf
 *.synctex.gz
 *.out
+*.bbl
+*.blg
+*.toc
