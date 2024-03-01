@@ -1,0 +1,47 @@
+%%%%%%%%%%%%%%
+%% CLEVEREF %%
+%%%%%%%%%%%%%%
+%% order matters: hyperref before cleverref, and biblatex last
+\usepackage{hyperref}
+%% cleveref package for convenient hyper-referencing/citing:
+\usepackage[nameinlink,capitalize]{cleveref}
+%% The default cref format includes a space before the number, e.g.,
+%% "§ 3" rather than "§3", so when using § it looks better to
+%% define the cref format explicitly:
+%% https://tex.stackexchange.com/questions/247538/remove-space-in-the-default-cref-command
+\crefformat{section}{\S#2#1#3}
+%% A space is still included when multiple sections are referenced,
+%% but I think removing the space for multiple section refs would look
+%% worse.
+\crefname{section}{\S}{\S\S}
+\Crefname{section}{Section}{Sections}
+\crefname{equation}{Equation}{Equations}
+\Crefname{equation}{Equation}{Equations}
+\crefname{figure}{Figure}{Figures}
+\Crefname{figure}{Figure}{Figures}
+\Crefname{appsec}{Appendix}{appendices}
+
+%%%%%%%%%%%%%%%
+%% CITATIONS %%
+%%%%%%%%%%%%%%%
+\usepackage[sort&compress,numbers]{natbib}
+\bibliographystyle{unsrtnat}
+
+%%%%%%%%%%%%
+%% LAYOUT %%
+%%%%%%%%%%%%
+% \usepackage[skip=1.5em]{parskip}
+\setlength{\parskip}{0.5em plus0.5em}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep}
+
+%%%%%%%%%%%%
+%% MACROS %%
+%%%%%%%%%%%%
+\usepackage{xspace}
+% \newcommand{\macpan}{\texttt{macpan2}\xspace}
+\newcommand{\macpan}{\texttt{macpan2}\xspace}
+\newcommand{\macpanOrig}{\texttt{McMasterPandemic}\xspace}
+\newcommand{\R}{\texttt{R}\xspace}
+\newcommand{\eg}{\textit{e.g.},\xspace}
+\newcommand{\ie}{\textit{i.e.},\xspace}
